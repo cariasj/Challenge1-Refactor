@@ -5,6 +5,7 @@
     margin: 0;
 }
 
+/* Body */
 body {
     background-color: #d9dcd6;
 }
@@ -53,7 +54,7 @@ p {
     font-size: 16px;
 }
 
-/* Jumbotron */
+/* Hero */
 .hero {
     height: 800px;
     width: 100%;
