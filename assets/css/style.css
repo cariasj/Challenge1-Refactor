@@ -64,6 +64,7 @@ p {
     background-position: center;
 }
 
+/* Floats */
 .float-left {
     float: left;
     margin-right: 25px;
